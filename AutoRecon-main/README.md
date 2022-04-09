@@ -1,4 +1,4 @@
-> It's like bowling with bumpers. - [@ippsec](https://twitter.com/ippsec)
+> It's like bowling with bumpers. 
 
 # AutoRecon
 
